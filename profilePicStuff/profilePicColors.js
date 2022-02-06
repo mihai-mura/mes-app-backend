@@ -1,0 +1,20 @@
+const colors = [
+	'#2a9d8f',
+	'#e9c46a',
+	'#f4a261',
+	'#e76f51',
+	'#fca311',
+	'#d62828',
+	'#eae2b7',
+	'#ef476f',
+	'#ffd166',
+	'#06d6a0',
+	'#118ab2',
+	'#00ffe1',
+	'#f578b9',
+	'#aaa5a5',
+	'#ff4164',
+	'#ebe673',
+	'#9bb996',
+];
+module.exports = colors;

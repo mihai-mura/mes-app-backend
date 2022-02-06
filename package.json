@@ -1,0 +1,27 @@
+{
+	"name": "mesapp",
+	"version": "1.0.0",
+	"description": "",
+	"main": "server.js",
+	"scripts": {
+		"start": "nodemon server.js"
+	},
+	"keywords": [],
+	"author": "Mura Mihai",
+	"license": "ISC",
+	"devDependencies": {
+		"nodemon": "^2.0.15"
+	},
+	"dependencies": {
+		"@socket.io/admin-ui": "^0.2.0",
+		"bcrypt": "^5.0.1",
+		"canvas": "^2.9.0",
+		"cors": "^2.8.5",
+		"dotenv": "^12.0.3",
+		"express": "^4.17.2",
+		"jsonwebtoken": "^8.5.1",
+		"mongoose": "^6.1.6",
+		"multer": "^1.4.4",
+		"socket.io": "^4.4.1"
+	}
+}
